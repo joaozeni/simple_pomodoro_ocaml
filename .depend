@@ -1,0 +1,8 @@
+_server/simple_pomodoro_ocaml.cmo :
+_server/simple_pomodoro_ocaml.cmx :
+_server/simple_pomodoro_ocaml.cmo : _server/simple_pomodoro_ocaml.type_mli
+_server/simple_pomodoro_ocaml.cmx : _server/simple_pomodoro_ocaml.type_mli
+_client/simple_pomodoro_ocaml.cmo :
+_client/simple_pomodoro_ocaml.cmx :
+_client/simple_pomodoro_ocaml.cmo : _server/simple_pomodoro_ocaml.type_mli
+_client/simple_pomodoro_ocaml.cmx : _server/simple_pomodoro_ocaml.type_mli

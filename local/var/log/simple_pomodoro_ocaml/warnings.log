@@ -1,0 +1,11 @@
+Apr 12 21:30:39: ocsigen:main: Command pipe created
+Apr 12 21:30:40: ocsipersist:dbm: Initializing ...
+Apr 12 21:30:40: ocsipersist:dbm: Launching a new Ocsidbm process: /home/jzgeni/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/simple_pomodoro_ocaml/ocsipersist.
+Apr 12 21:30:40: ocsipersist:dbm: ...Initialization complete
+Apr 12 21:30:40: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "jzgeni-MS-7851"
+Apr 12 21:30:40: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Apr 12 22:52:46: ocsipersist:dbm: Initializing ...
+Apr 12 22:52:47: ocsipersist:dbm: Launching a new Ocsidbm process: /home/jzgeni/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/simple_pomodoro_ocaml/ocsipersist.
+Apr 12 22:52:47: ocsipersist:dbm: ...Initialization complete
+Apr 12 22:52:47: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "jzgeni-MS-7851"
+Apr 12 22:52:47: ocsigen:main: Ocsigen has been launched (initialisations ok)
