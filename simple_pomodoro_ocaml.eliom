@@ -2,6 +2,7 @@
     open Eliom_lib
     open Eliom_content
     open Html5.D
+    open Base
 ]
 
 module Simple_pomodoro_ocaml_app =
@@ -17,7 +18,7 @@ let () =
   Simple_pomodoro_ocaml_app.register
      ~service:main_service
     (fun () () ->
-      (*let open Lwt in
+      let open Lwt in
       print_endline "service";
       Db.incomplete () >>= fun tasks ->
         let task_table =
@@ -25,7 +26,7 @@ let () =
         in
         let () =
           ignore @@ init task_table
-        in*)
+        in
         Lwt.return (Eliom_tools.F.html
           ~title:"Simple Pomodoro tool using Ocsigen & Eliom"
           ~css:[
